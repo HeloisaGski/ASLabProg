@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASLabProg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58256ce4f6143488971827d8e7839f0b061d2a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASLabProg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASLabProg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
